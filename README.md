@@ -12,5 +12,6 @@
 
 - How to reach me **hakirmi69@gmail.com**
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=SatoruGojo696)](https://github.com/ryo-ma/github-profile-trophy)
 
 
