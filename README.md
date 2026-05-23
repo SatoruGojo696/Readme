@@ -12,4 +12,5 @@
 
 - How to reach me **hakirmi69@gmail.com**
 
+<img width="341" height="174" alt="Followers" src="https://github.com/user-attachments/assets/e74e500d-f355-4389-9f09-a1e6027c2531" />
 
