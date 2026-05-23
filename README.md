@@ -1,3 +1,4 @@
+<img width="1157" height="195" alt="Git" src="https://github.com/user-attachments/assets/aff76b6f-f813-4ffb-9d80-8fc5221a2035" />
 # Hi, I'm Subaru Natsuki!
 
 ### Just some guy who is trying new coding!
